@@ -1,8 +1,8 @@
-body{
+body {
     padding: 30px;
 }
 
-.cart{
+.cart {
     margin: 80px 0px;
     background-color: #F6F5FA;
     border-radius: 10px;
@@ -17,11 +17,11 @@ body{
     width: 83%;
 }
 
-.cart-item img{
+.cart-item img {
     width: 115px;
 }
 
-.input-grp input{
+.input-grp input {
     background-color: #F6F5FA;
     border: none;
     width: 65px;
@@ -31,21 +31,28 @@ body{
     font-weight: 700;
     font-size: 20px;
 }
-h5{
+
+h5 {
     padding: 0 45px;
 }
 
-.input-grp .remove{
+.input-grp .remove {
     width: 25px;
 }
 
-.index{
+.index {
     text-align: left;
 }
 
-.status{
+.status {
     text-align: right;
 }
+
+button {
+    border: none;
+    background-color: white;
+}
+
 .check-out {
     background-color: #2FBE70;
     border: none;
